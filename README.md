@@ -18,7 +18,9 @@ Acesso os designs e experimente testar as respostas
 👉 [Acesse o Wireframe 2 no Figma aqui](https://www.figma.com/make/ya4XmGhvfyVIW6Cwepwnce/Chat-App-with-Message-Editing?node-id=0-1&p=f&t=xfEcMclDrvPed1T0-0&fullscreen=1)
 
 👉 [Acesse o Wireframe 3 no Figma aqui](https://www.figma.com/make/sijnHteLkM3RiQbhFRIr0s/Mobile-Chat-App-Mockup?node-id=0-1&p=f&t=s7zSbOmnegRQG6ea-0&fullscreen=1)
+
 ### Apresentação
+![Preview do projeto](./preview.png)
 
 [![Apresentação(./preview.png)](https://www.canva.com/design/DAG0NWVtpV8/sDC5JnAxaCEZicQD5jT6Mw/view?utm_content=DAG0NWVtpV8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2aa6cfe19b)
 
