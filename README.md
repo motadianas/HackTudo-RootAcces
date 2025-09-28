@@ -20,3 +20,7 @@ Acesso os designs e experimente testar as respostas
 ### Apresentação
 [![Preview do projeto](./preview.png)](https://www.canva.com/design/DAG0NWVtpV8/sDC5JnAxaCEZicQD5jT6Mw/view?utm_content=DAG0NWVtpV8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2aa6cfe19b)
 
+
+
+### Pitch
+[Acesse nosso Pitch no YouTube](https://youtu.be/U28qL74k_y8)
